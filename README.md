@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @stano45
+- 👀 I’m interested in Machine/Deep Learning and Game Development
+- 🌱 I’m currently learning Computer Vision (CNNs) with TensorFlow
+- 💞️ I’m looking to collaborate on any fun project involving machine learning
+- 📫 If interested, send me an email: stanokosorin4@gmail.com
